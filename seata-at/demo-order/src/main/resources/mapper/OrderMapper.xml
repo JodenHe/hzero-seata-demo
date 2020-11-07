@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.hand.demo.infra.mapper.OrderMapper">
+    <!-- 可根据自己的需求，是否要使用 -->
+    <resultMap id="BaseResultMap" type="com.hand.demo.domain.entity.Order">
+                    <result column="id" property="id" jdbcType="DECIMAL"/>
+                    <result column="user_id" property="userId" jdbcType="DECIMAL"/>
+                    <result column="count" property="count" jdbcType="DECIMAL"/>
+                    <result column="money" property="money" jdbcType="DECIMAL"/>
+                    <result column="status" property="status" jdbcType="DECIMAL"/>
+            </resultMap>
+</mapper>
