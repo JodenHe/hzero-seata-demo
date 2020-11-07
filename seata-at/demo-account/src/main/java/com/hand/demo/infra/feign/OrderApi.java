@@ -4,7 +4,7 @@
 package com.hand.demo.infra.feign;
 
 import org.springframework.cloud.openfeign.FeignClient;
-import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
 import java.math.BigDecimal;
@@ -27,6 +27,6 @@ public interface OrderApi {
      * @param status
      * @return
      */
-    @PostMapping("/update")
+    @PutMapping("/update")
     String update(@RequestParam("userId") Long userId, @RequestParam("money") BigDecimal money, @RequestParam("status") Integer status);
 }

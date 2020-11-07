@@ -13,4 +13,4 @@ create table `demo_storage` (
     primary key (`id`)
 ) engine=InnoDB auto_increment=2 default charset=utf8;
 
-insert into `storage`(id, product_id, total, used, residue) VALUES (1, 1, 100, 0, 100);
+insert into `demo_storage`(id, product_id, total, used, residue) VALUES (1, 1, 100, 0, 100);

@@ -13,4 +13,4 @@ create table `demo_account` (
     primary key (`id`)
 ) engine=InnoDB auto_increment=2 DEFAULT CHARSET=utf8;
 
-insert into `account` (id, user_id, total, used, residue) VALUES (1, 1, 1000, 0, 1000);
+insert into `demo_account` (id, user_id, total, used, residue) VALUES (1, 1, 1000, 0, 1000);

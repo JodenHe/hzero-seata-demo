@@ -33,7 +33,7 @@ public class OrderServiceImpl implements OrderService {
     private AccountApi accountApi;
 
     @Override
-    @GlobalTransactional(name = "demo-create-order", rollbackFor = Exception.class)
+    @GlobalTransactional(name = "demo-create-order", rollbackFor = Exception.class, timeoutMills = 600000)
     public void create(Order order) {
         log.info("------->交易开始");
         // 本地方法

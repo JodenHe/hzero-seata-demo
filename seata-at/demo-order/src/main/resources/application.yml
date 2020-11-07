@@ -58,6 +58,11 @@ server:
 feign:
   hystrix:
     enabled: false
+#  client:
+#    config:
+#      default:
+#        connectTimeout: 5000
+#        readTimeout: 10000
 
 hystrix:
   threadpool:
@@ -82,7 +87,7 @@ ribbon:
   # 客户端连接超时时间
   ConnectTimeout: ${RIBBON_CONNECT_TIMEOUT:3000}
   # 访问实例失败(超时)，允许自动重试，设置重试次数，失败后会更换实例访问，请一定确保接口的幂等性，否则重试可能导致数据异常。
-  OkToRetryOnAllOperations: true
+  OkToRetryOnAllOperations: false
   MaxAutoRetries: 1
   MaxAutoRetriesNextServer: 1
 

@@ -105,7 +105,7 @@ public class OrderController extends BaseController {
      */
     @ApiOperation(value = "修改订单状态")
     @Permission(level = ResourceLevel.ORGANIZATION)
-    @RequestMapping("/update")
+    @PutMapping("/update")
     String update(@RequestParam("userId") Long userId, @RequestParam("money") BigDecimal money, @RequestParam("status") Integer status){
         orderService.update(userId, money, status);
         return "订单状态修改成功";
