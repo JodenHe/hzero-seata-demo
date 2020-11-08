@@ -1,0 +1,300 @@
+<svg width="1189" ed:hspacing="30" viewBox="0 0 1189 955" id="page0" xmlns:ed="https://www.edrawsoft.cn/xml/2017/SVGExtensions/" ed:vspacing="30" xmlns:xlink="http://www.w3.org/1999/xlink" height="995" ed:name="页面-1" preserveaspectradio="xMinYMin meet" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns="http://www.w3.org/2000/svg">
+    <style type="text/css">
+g[ed\:togtopicid],g[ed\:hyperlink],g[ed\:comment],g[ed\:note] {cursor:pointer;}
+g[id] {-moz-user-select: none;-ms-user-select: none;user-select: none;}
+svg text::selection,svg tspan::selection{background-color: #4285f4;color: #ffffff;fill: #ffffff;}
+.st2 {fill:#303030;font-family:微软雅黑;font-size:12pt}
+.st4 {fill:#454545;font-family:微软雅黑;font-size:10pt;font-weight:bold}
+.st3 {fill:#454545;font-family:微软雅黑;font-size:10pt}
+.st1 {fill:#ffffff;font-family:微软雅黑;font-size:14pt}
+.st5 {font-weight:normal}
+</style>
+    <defs></defs>
+    <rect width="1189" x="0" y="0" height="995" fill="#ffffff"></rect>
+    <path d="M-30.5,185.8C2.5,90,-39.4,-214.3,58.3,-214.3" stroke-linecap="round" transform="matrix(1,0,0,1,134.75,291)" id="184" stroke-linejoin="round" ed:parentid="101" ed:tosuperid="224" stroke="#696969" fill="none"></path>
+    <path d="M-13.5,1.6C-2.3,1.6,4.5,-1.6,13.5,-1.6" stroke-linecap="round" transform="matrix(1,0,0,1,277.5,75.13)" id="185" stroke-linejoin="round" ed:parentid="224" ed:tosuperid="225" stroke="#696969" fill="none"></path>
+    <path d="M-13.5,-13.9C0.5,-13.9,-2,13.9,13.5,13.9" stroke-linecap="round" transform="matrix(1,0,0,1,277.5,90.63)" id="186" stroke-linejoin="round" ed:parentid="224" ed:tosuperid="226" stroke="#696969" fill="none"></path>
+    <path d="M-28.4,133.8C0.2,54.6,-29.5,-162.3,58.3,-162.3" stroke-linecap="round" transform="matrix(1,0,0,1,134.75,343)" id="187" stroke-linejoin="round" ed:parentid="101" ed:tosuperid="227" stroke="#696969" fill="none"></path>
+    <path d="M-13.5,-6.1C-1.3,-6.1,2.1,6.1,13.5,6.1" stroke-linecap="round" transform="matrix(1,0,0,1,309.5,186.88)" id="188" stroke-linejoin="round" ed:parentid="227" ed:tosuperid="228" stroke="#696969" fill="none"></path>
+    <path d="M-13.5,15.5C0.8,15.5,-2.8,-15.5,13.5,-15.5" stroke-linecap="round" transform="matrix(1,0,0,1,484.5,177.5)" id="189" stroke-linejoin="round" ed:parentid="228" ed:tosuperid="229" stroke="#696969" fill="none"></path>
+    <path d="M-13.5,-7.8C-0.9,-7.8,1.2,7.8,13.5,7.8" stroke-linecap="round" transform="matrix(1,0,0,1,484.5,200.75)" id="190" stroke-linejoin="round" ed:parentid="228" ed:tosuperid="230" stroke="#696969" fill="none"></path>
+    <path d="M-13.5,0C-2.7,0,5.4,0,13.5,0" stroke-linecap="round" transform="matrix(1,0,0,1,568.5,162)" id="191" stroke-linejoin="round" ed:parentid="229" ed:tosuperid="231" stroke="#696969" fill="none"></path>
+    <path d="M-13.5,7.8C-0.9,7.8,1.2,-7.8,13.5,-7.8" stroke-linecap="round" transform="matrix(1,0,0,1,568.5,200.75)" id="192" stroke-linejoin="round" ed:parentid="230" ed:tosuperid="232" stroke="#696969" fill="none"></path>
+    <path d="M-13.5,-7.8C-0.9,-7.8,1.2,7.8,13.5,7.8" stroke-linecap="round" transform="matrix(1,0,0,1,568.5,216.25)" id="193" stroke-linejoin="round" ed:parentid="230" ed:tosuperid="233" stroke="#696969" fill="none"></path>
+    <path d="M-24.6,74C-0.9,17.7,-8.3,-102.5,58.3,-102.5" stroke-linecap="round" transform="matrix(1,0,0,1,134.75,402.75)" id="194" stroke-linejoin="round" ed:parentid="101" ed:tosuperid="234" stroke="#696969" fill="none"></path>
+    <path d="M-13.5,9.4C-0.5,9.4,0.3,-9.4,13.5,-9.4" stroke-linecap="round" transform="matrix(1,0,0,1,293.5,290.88)" id="195" stroke-linejoin="round" ed:parentid="234" ed:tosuperid="235" stroke="#696969" fill="none"></path>
+    <path d="M-13.5,-6.1C-1.3,-6.1,2.1,6.1,13.5,6.1" stroke-linecap="round" transform="matrix(1,0,0,1,293.5,306.38)" id="196" stroke-linejoin="round" ed:parentid="234" ed:tosuperid="236" stroke="#696969" fill="none"></path>
+    <path d="M-13.5,-21.6C2.1,-21.6,-5.7,21.6,13.5,21.6" stroke-linecap="round" transform="matrix(1,0,0,1,293.5,321.88)" id="197" stroke-linejoin="round" ed:parentid="234" ed:tosuperid="237" stroke="#696969" fill="none"></path>
+    <path d="M-12.3,17.3C6.9,-9.6,20.7,-45.8,58.3,-45.8" stroke-linecap="round" transform="matrix(1,0,0,1,134.75,459.5)" id="198" stroke-linejoin="round" ed:parentid="101" ed:tosuperid="238" stroke="#696969" fill="none"></path>
+    <path d="M-13.5,-3.1C-2,-3.1,3.7,3.1,13.5,3.1" stroke-linecap="round" transform="matrix(1,0,0,1,293.5,416.88)" id="199" stroke-linejoin="round" ed:parentid="238" ed:tosuperid="239" stroke="#696969" fill="none"></path>
+    <path d="M-13.5,-18.6C1.5,-18.6,-4.3,18.6,13.5,18.6" stroke-linecap="round" transform="matrix(1,0,0,1,293.5,432.38)" id="200" stroke-linejoin="round" ed:parentid="238" ed:tosuperid="240" stroke="#696969" fill="none"></path>
+    <path d="M-25.2,-80.3C-1,-21.3,-11,108.8,58.3,108.8" stroke-linecap="round" transform="matrix(1,0,0,1,134.75,614)" id="201" stroke-linejoin="round" ed:parentid="101" ed:tosuperid="241" stroke="#696969" fill="none"></path>
+    <path d="M-13.5,52.9C5.4,52.9,-13.5,-52.9,13.5,-52.9" stroke-linecap="round" transform="matrix(1,0,0,1,309.5,669.88)" id="202" stroke-linejoin="round" ed:parentid="241" ed:tosuperid="242" stroke="#696969" fill="none"></path>
+    <path d="M-13.5,-47.9C5.3,-47.9,-13.2,47.9,13.5,47.9" stroke-linecap="round" transform="matrix(1,0,0,1,309.5,770.63)" id="203" stroke-linejoin="round" ed:parentid="241" ed:tosuperid="243" stroke="#696969" fill="none"></path>
+    <path d="M-13.5,-106.9C5.4,-106.9,-13.5,106.9,13.5,106.9" stroke-linecap="round" transform="matrix(1,0,0,1,309.5,829.63)" id="204" stroke-linejoin="round" ed:parentid="241" ed:tosuperid="244" stroke="#696969" fill="none"></path>
+    <path d="M-13.5,54.3C5.4,54.3,-13.5,-54.3,13.5,-54.3" stroke-linecap="round" transform="matrix(1,0,0,1,393.5,562.75)" id="205" stroke-linejoin="round" ed:parentid="242" ed:tosuperid="245" stroke="#696969" fill="none"></path>
+    <path d="M-13.5,38.8C4.6,38.8,-11.7,-38.8,13.5,-38.8" stroke-linecap="round" transform="matrix(1,0,0,1,393.5,578.25)" id="206" stroke-linejoin="round" ed:parentid="242" ed:tosuperid="246" stroke="#696969" fill="none"></path>
+    <path d="M-13.5,23.3C2.4,23.3,-6.4,-23.3,13.5,-23.3" stroke-linecap="round" transform="matrix(1,0,0,1,393.5,593.75)" id="207" stroke-linejoin="round" ed:parentid="242" ed:tosuperid="247" stroke="#696969" fill="none"></path>
+    <path d="M-13.5,7.8C-0.9,7.8,1.2,-7.8,13.5,-7.8" stroke-linecap="round" transform="matrix(1,0,0,1,393.5,609.25)" id="208" stroke-linejoin="round" ed:parentid="242" ed:tosuperid="248" stroke="#696969" fill="none"></path>
+    <path d="M-13.5,-7.8C-0.9,-7.8,1.2,7.8,13.5,7.8" stroke-linecap="round" transform="matrix(1,0,0,1,393.5,624.75)" id="209" stroke-linejoin="round" ed:parentid="242" ed:tosuperid="249" stroke="#696969" fill="none"></path>
+    <path d="M-13.5,0C-2.7,0,5.4,0,13.5,0" stroke-linecap="round" transform="matrix(1,0,0,1,516.5,632.5)" id="210" stroke-linejoin="round" ed:parentid="249" ed:tosuperid="250" stroke="#696969" fill="none"></path>
+    <path d="M-13.5,-23.3C2.4,-23.3,-6.4,23.3,13.5,23.3" stroke-linecap="round" transform="matrix(1,0,0,1,393.5,640.25)" id="211" stroke-linejoin="round" ed:parentid="242" ed:tosuperid="251" stroke="#696969" fill="none"></path>
+    <path d="M-13.5,-38.8C4.6,-38.8,-11.7,38.8,13.5,38.8" stroke-linecap="round" transform="matrix(1,0,0,1,393.5,655.75)" id="212" stroke-linejoin="round" ed:parentid="242" ed:tosuperid="252" stroke="#696969" fill="none"></path>
+    <path d="M-13.5,-54.3C5.4,-54.3,-13.5,54.3,13.5,54.3" stroke-linecap="round" transform="matrix(1,0,0,1,393.5,671.25)" id="213" stroke-linejoin="round" ed:parentid="242" ed:tosuperid="253" stroke="#696969" fill="none"></path>
+    <path d="M-13.5,31C3.7,31,-9.4,-31,13.5,-31" stroke-linecap="round" transform="matrix(1,0,0,1,431.5,787.5)" id="214" stroke-linejoin="round" ed:parentid="243" ed:tosuperid="254" stroke="#696969" fill="none"></path>
+    <path d="M-13.5,15.5C0.8,15.5,-2.8,-15.5,13.5,-15.5" stroke-linecap="round" transform="matrix(1,0,0,1,431.5,803)" id="215" stroke-linejoin="round" ed:parentid="243" ed:tosuperid="255" stroke="#696969" fill="none"></path>
+    <path d="M-13.5,0C-2.7,0,5.4,0,13.5,0" stroke-linecap="round" transform="matrix(1,0,0,1,431.5,818.5)" id="216" stroke-linejoin="round" ed:parentid="243" ed:tosuperid="256" stroke="#696969" fill="none"></path>
+    <path d="M-13.5,0C-2.7,0,5.4,0,13.5,0" stroke-linecap="round" transform="matrix(1,0,0,1,528.5,818.5)" id="217" stroke-linejoin="round" ed:parentid="256" ed:tosuperid="257" stroke="#696969" fill="none"></path>
+    <path d="M-13.5,0C-2.7,0,5.4,0,13.5,0" stroke-linecap="round" transform="matrix(1,0,0,1,837.5,818.5)" id="218" stroke-linejoin="round" ed:parentid="257" ed:tosuperid="258" stroke="#696969" fill="none"></path>
+    <path d="M-13.5,-15.5C0.8,-15.5,-2.8,15.5,13.5,15.5" stroke-linecap="round" transform="matrix(1,0,0,1,431.5,834)" id="219" stroke-linejoin="round" ed:parentid="243" ed:tosuperid="259" stroke="#696969" fill="none"></path>
+    <path d="M-13.5,-31C3.7,-31,-9.4,31,13.5,31" stroke-linecap="round" transform="matrix(1,0,0,1,431.5,849.5)" id="220" stroke-linejoin="round" ed:parentid="243" ed:tosuperid="260" stroke="#696969" fill="none"></path>
+    <path d="M-13.5,3C-2,3,3.8,-3,13.5,-3" stroke-linecap="round" transform="matrix(1,0,0,1,431.5,933.5)" id="221" stroke-linejoin="round" ed:parentid="244" ed:tosuperid="261" stroke="#696969" fill="none"></path>
+    <path d="M-13.5,-12.5C0.2,-12.5,-1.3,12.5,13.5,12.5" stroke-linecap="round" transform="matrix(1,0,0,1,431.5,949)" id="222" stroke-linejoin="round" ed:parentid="244" ed:tosuperid="262" stroke="#696969" fill="none"></path>
+    <g transform="matrix(1,0,0,1,23,476.75)" ed:height="57" id="101" ed:width="107" ed:topictype="mainidea" ed:layout="map">
+        <path d="M4,0L103,0C105.7,0,107,1.3,107,4L107,53C107,55.7,105.7,57,103,57L4,57C1.3,57,0,55.7,0,53L0,4C0,1.3,1.3,0,4,0z" stroke-width="3" stroke-linejoin="round" fill="#435fbc" stroke="#435fbc"></path>
+        <text class="st1">
+            <tspan x="21" y="34.5" style="white-space:pre">AT模式</tspan>
+        </text>
+    </g>
+    <g transform="matrix(1,0,0,1,193,58.25)" ed:height="37" id="224" ed:width="71" ed:parentid="101" ed:layout="rightmap">
+        <path d="M4,0L67,0C69.7,0,71,1.3,71,4L71,33C71,35.7,69.7,37,67,37L4,37C1.3,37,0,35.7,0,33L0,4C0,1.3,1.3,0,4,0z" stroke-linejoin="round" fill="#ebecf3" stroke="#ebecf3"></path>
+        <text class="st2">
+            <tspan x="18" y="23.5" style="white-space:pre">前提</tspan>
+        </text>
+    </g>
+    <g transform="matrix(1,0,0,1,291,49)" ed:height="24.5" id="225" ed:width="245" ed:parentid="224" ed:layout="rightmap">
+        <path d="M0,24.5L245,24.5" stroke-linejoin="round" stroke="#696969" fill="none"></path>
+        <text class="st3">
+            <tspan x="8" y="16.1" style="white-space:pre">基于支持本地ACID事务的关系型数据库</tspan>
+        </text>
+    </g>
+    <g transform="matrix(1,0,0,1,291,80)" ed:height="24.5" id="226" ed:width="218" ed:parentid="224" ed:layout="rightmap">
+        <path d="M0,24.5L218,24.5" stroke-linejoin="round" stroke="#696969" fill="none"></path>
+        <text class="st3">
+            <tspan x="8" y="16.1" style="white-space:pre">Java 应用，通过 JDBC 访问数据库</tspan>
+        </text>
+    </g>
+    <g transform="matrix(1,0,0,1,193,162.25)" ed:height="37" id="227" ed:width="103" ed:parentid="101" ed:layout="rightmap">
+        <path d="M4,0L99,0C101.7,0,103,1.3,103,4L103,33C103,35.7,101.7,37,99,37L4,37C1.3,37,0,35.7,0,33L0,4C0,1.3,1.3,0,4,0z" stroke-linejoin="round" fill="#ebecf3" stroke="#ebecf3"></path>
+        <text class="st2">
+            <tspan x="18" y="23.5" style="white-space:pre">整体机制</tspan>
+        </text>
+    </g>
+    <g transform="matrix(1,0,0,1,323,168.5)" ed:height="24.5" id="228" ed:width="148" ed:parentid="227" ed:layout="rightmap">
+        <path d="M0,24.5L148,24.5" stroke-linejoin="round" stroke="#696969" fill="none"></path>
+        <text class="st3">
+            <tspan x="8" y="16.1" style="white-space:pre">两阶段提交协议的演变</tspan>
+        </text>
+    </g>
+    <g transform="matrix(1,0,0,1,498,137.5)" ed:height="24.5" id="229" ed:width="57" ed:parentid="228" ed:layout="rightmap">
+        <path d="M0,24.5L57,24.5" stroke-linejoin="round" stroke="#696969" fill="none"></path>
+        <text class="st3">
+            <tspan x="8" y="16.1" style="white-space:pre">一阶段</tspan>
+        </text>
+    </g>
+    <g transform="matrix(1,0,0,1,498,184)" ed:height="24.5" id="230" ed:width="57" ed:parentid="228" ed:layout="rightmap">
+        <path d="M0,24.5L57,24.5" stroke-linejoin="round" stroke="#696969" fill="none"></path>
+        <text class="st3">
+            <tspan x="8" y="16.1" style="white-space:pre">二阶段</tspan>
+        </text>
+    </g>
+    <g transform="matrix(1,0,0,1,582,137.5)" ed:height="24.5" id="231" ed:width="447" ed:parentid="229" ed:layout="rightmap">
+        <path d="M0,24.5L447,24.5" stroke-linejoin="round" stroke="#696969" fill="none"></path>
+        <text class="st3">
+            <tspan x="8" y="16.1" style="white-space:pre">业务数据和回滚日志记录在同一个本地事务中提交，释放本地锁和连接资源</tspan>
+        </text>
+    </g>
+    <g transform="matrix(1,0,0,1,582,168.5)" ed:height="24.5" id="232" ed:width="187" ed:parentid="230" ed:layout="rightmap">
+        <path d="M0,24.5L187,24.5" stroke-linejoin="round" stroke="#696969" fill="none"></path>
+        <text class="st3">
+            <tspan x="8" y="16.1" style="white-space:pre">提交异步化，非常快速地完成</tspan>
+        </text>
+    </g>
+    <g transform="matrix(1,0,0,1,582,199.5)" ed:height="24.5" id="233" ed:width="252" ed:parentid="230" ed:layout="rightmap">
+        <path d="M0,24.5L252,24.5" stroke-linejoin="round" stroke="#696969" fill="none"></path>
+        <text class="st3">
+            <tspan x="8" y="16.1" style="white-space:pre">回滚通过一阶段的回滚日志进行反向补偿</tspan>
+        </text>
+    </g>
+    <g transform="matrix(1,0,0,1,193,281.75)" ed:height="37" id="234" ed:width="87" ed:parentid="101" ed:layout="rightmap">
+        <path d="M4,0L83,0C85.7,0,87,1.3,87,4L87,33C87,35.7,85.7,37,83,37L4,37C1.3,37,0,35.7,0,33L0,4C0,1.3,1.3,0,4,0z" stroke-linejoin="round" fill="#ebecf3" stroke="#ebecf3"></path>
+        <text class="st2">
+            <tspan x="18" y="23.5" style="white-space:pre">写隔离</tspan>
+        </text>
+    </g>
+    <g transform="matrix(1,0,0,1,307,257)" ed:height="24.5" id="235" ed:width="291" ed:parentid="234" ed:layout="rightmap">
+        <path d="M0,24.5L291,24.5" stroke-linejoin="round" stroke="#696969" fill="none"></path>
+        <text class="st4">
+            <tspan x="8" y="16.1" class="st5" style="white-space:pre">一阶段本地事务提交前，需要确保先拿到</tspan>
+            <tspan x="242" style="white-space:pre">全局锁</tspan>
+        </text>
+    </g>
+    <g transform="matrix(1,0,0,1,307,288)" ed:height="24.5" id="236" ed:width="213" ed:parentid="234" ed:layout="rightmap">
+        <path d="M0,24.5L213,24.5" stroke-linejoin="round" stroke="#696969" fill="none"></path>
+        <text class="st3">
+            <tspan x="8" y="16.1" style="white-space:pre">拿不到全局锁，不能提交本地事务</tspan>
+        </text>
+    </g>
+    <g transform="matrix(1,0,0,1,307,319)" ed:height="24.5" id="237" ed:width="512" ed:parentid="234" ed:layout="rightmap">
+        <path d="M0,24.5L512,24.5" stroke-linejoin="round" stroke="#696969" fill="none"></path>
+        <text class="st3">
+            <tspan x="8" y="16.1" style="white-space:pre">拿全局锁的尝试被限制在一定范围内，超出范围将放弃，并回滚本地事务，释放本地锁</tspan>
+        </text>
+    </g>
+    <g transform="matrix(1,0,0,1,193,395.25)" ed:height="37" id="238" ed:width="87" ed:parentid="101" ed:layout="rightmap">
+        <path d="M4,0L83,0C85.7,0,87,1.3,87,4L87,33C87,35.7,85.7,37,83,37L4,37C1.3,37,0,35.7,0,33L0,4C0,1.3,1.3,0,4,0z" stroke-linejoin="round" fill="#ebecf3" stroke="#ebecf3"></path>
+        <text class="st2">
+            <tspan x="18" y="23.5" style="white-space:pre">读隔离</tspan>
+        </text>
+    </g>
+    <g transform="matrix(1,0,0,1,307,376.5)" ed:height="43.5" id="239" ed:width="514" ed:parentid="238" ed:layout="rightmap">
+        <path d="M0,43.5L514,43.5" stroke-linejoin="round" stroke="#696969" fill="none"></path>
+        <text class="st3">
+            <tspan x="8" y="16.1" style="white-space:pre">数据库本地事务隔离级别 读已提交（Read Committed）或以上的基础上，Seata </tspan>
+            <tspan x="8" y="35.1" style="white-space:pre">（AT模式）的默认全局隔离级别是 读未提交（Read Uncommitted）</tspan>
+        </text>
+    </g>
+    <g transform="matrix(1,0,0,1,307,426.5)" ed:height="24.5" id="240" ed:width="442" ed:parentid="238" ed:layout="rightmap">
+        <path d="M0,24.5L442,24.5" stroke-linejoin="round" stroke="#696969" fill="none"></path>
+        <text class="st3">
+            <tspan x="8" y="16.1" style="white-space:pre">如果必需要求全局读已提交，目前Seata通过select for update语句的代理</tspan>
+        </text>
+    </g>
+    <g transform="matrix(1,0,0,1,193,704.25)" ed:height="37" id="241" ed:width="103" ed:parentid="101" ed:layout="rightmap">
+        <path d="M4,0L99,0C101.7,0,103,1.3,103,4L103,33C103,35.7,101.7,37,99,37L4,37C1.3,37,0,35.7,0,33L0,4C0,1.3,1.3,0,4,0z" stroke-linejoin="round" fill="#ebecf3" stroke="#ebecf3"></path>
+        <text class="st2">
+            <tspan x="18" y="23.5" style="white-space:pre">工作机制</tspan>
+        </text>
+    </g>
+    <g transform="matrix(1,0,0,1,323,592.5)" ed:height="24.5" id="242" ed:width="57" ed:parentid="241" ed:layout="rightmap">
+        <path d="M0,24.5L57,24.5" stroke-linejoin="round" stroke="#696969" fill="none"></path>
+        <text class="st3">
+            <tspan x="8" y="16.1" style="white-space:pre">一阶段</tspan>
+        </text>
+    </g>
+    <g transform="matrix(1,0,0,1,323,794)" ed:height="24.5" id="243" ed:width="95" ed:parentid="241" ed:layout="rightmap">
+        <path d="M0,24.5L95,24.5" stroke-linejoin="round" stroke="#696969" fill="none"></path>
+        <text class="st3">
+            <tspan x="8" y="16.1" style="white-space:pre">二阶段--回滚</tspan>
+        </text>
+    </g>
+    <g transform="matrix(1,0,0,1,323,912)" ed:height="24.5" id="244" ed:width="95" ed:parentid="241" ed:layout="rightmap">
+        <path d="M0,24.5L95,24.5" stroke-linejoin="round" stroke="#696969" fill="none"></path>
+        <text class="st3">
+            <tspan x="8" y="16.1" style="white-space:pre">二阶段--提交</tspan>
+        </text>
+    </g>
+    <g transform="matrix(1,0,0,1,407,484)" ed:height="24.5" id="245" ed:width="70" ed:parentid="242" ed:layout="rightmap">
+        <path d="M0,24.5L70,24.5" stroke-linejoin="round" stroke="#696969" fill="none"></path>
+        <text class="st3">
+            <tspan x="8" y="16.1" style="white-space:pre">解析SQL</tspan>
+        </text>
+    </g>
+    <g transform="matrix(1,0,0,1,407,515)" ed:height="24.5" id="246" ed:width="83" ed:parentid="242" ed:layout="rightmap">
+        <path d="M0,24.5L83,24.5" stroke-linejoin="round" stroke="#696969" fill="none"></path>
+        <text class="st3">
+            <tspan x="8" y="16.1" style="white-space:pre">查询前镜像</tspan>
+        </text>
+    </g>
+    <g transform="matrix(1,0,0,1,407,546)" ed:height="24.5" id="247" ed:width="96" ed:parentid="242" ed:layout="rightmap">
+        <path d="M0,24.5L96,24.5" stroke-linejoin="round" stroke="#696969" fill="none"></path>
+        <text class="st3">
+            <tspan x="8" y="16.1" style="white-space:pre">执行业务SQL</tspan>
+        </text>
+    </g>
+    <g transform="matrix(1,0,0,1,407,577)" ed:height="24.5" id="248" ed:width="83" ed:parentid="242" ed:layout="rightmap">
+        <path d="M0,24.5L83,24.5" stroke-linejoin="round" stroke="#696969" fill="none"></path>
+        <text class="st3">
+            <tspan x="8" y="16.1" style="white-space:pre">查询后镜像</tspan>
+        </text>
+    </g>
+    <g transform="matrix(1,0,0,1,407,608)" ed:height="24.5" id="249" ed:width="96" ed:parentid="242" ed:layout="rightmap">
+        <path d="M0,24.5L96,24.5" stroke-linejoin="round" stroke="#696969" fill="none"></path>
+        <text class="st3">
+            <tspan x="8" y="16.1" style="white-space:pre">插入回滚镜像</tspan>
+        </text>
+    </g>
+    <g transform="matrix(1,0,0,1,530,608)" ed:height="24.5" id="250" ed:width="510" ed:parentid="249" ed:layout="rightmap">
+        <path d="M0,24.5L510,24.5" stroke-linejoin="round" stroke="#696969" fill="none"></path>
+        <text class="st3">
+            <tspan x="8" y="16.1" style="white-space:pre">把前后镜像数据以及业务SQL相关的信息组成一条回滚日志记录，插入UNDO_LOG表</tspan>
+        </text>
+    </g>
+    <g transform="matrix(1,0,0,1,407,639)" ed:height="24.5" id="251" ed:width="151" ed:parentid="242" ed:layout="rightmap">
+        <path d="M0,24.5L151,24.5" stroke-linejoin="round" stroke="#696969" fill="none"></path>
+        <text class="st3">
+            <tspan x="8" y="16.1" style="white-space:pre">提交前，向TC注册分支</tspan>
+        </text>
+    </g>
+    <g transform="matrix(1,0,0,1,407,670)" ed:height="24.5" id="252" ed:width="96" ed:parentid="242" ed:layout="rightmap">
+        <path d="M0,24.5L96,24.5" stroke-linejoin="round" stroke="#696969" fill="none"></path>
+        <text class="st3">
+            <tspan x="8" y="16.1" style="white-space:pre">本地事务提交</tspan>
+        </text>
+    </g>
+    <g transform="matrix(1,0,0,1,407,701)" ed:height="24.5" id="253" ed:width="207" ed:parentid="242" ed:layout="rightmap">
+        <path d="M0,24.5L207,24.5" stroke-linejoin="round" stroke="#696969" fill="none"></path>
+        <text class="st3">
+            <tspan x="8" y="16.1" style="white-space:pre">将本地事务提交的结果上报给 TC</tspan>
+        </text>
+    </g>
+    <g transform="matrix(1,0,0,1,445,732)" ed:height="24.5" id="254" ed:width="367" ed:parentid="243" ed:layout="rightmap">
+        <path d="M0,24.5L367,24.5" stroke-linejoin="round" stroke="#696969" fill="none"></path>
+        <text class="st3">
+            <tspan x="8" y="16.1" style="white-space:pre">收到 TC 的分支回滚请求，开启一个本地事务，执行如下操作</tspan>
+        </text>
+    </g>
+    <g transform="matrix(1,0,0,1,445,763)" ed:height="24.5" id="255" ed:width="342" ed:parentid="243" ed:layout="rightmap">
+        <path d="M0,24.5L342,24.5" stroke-linejoin="round" stroke="#696969" fill="none"></path>
+        <text class="st3">
+            <tspan x="8" y="16.1" style="white-space:pre">通过 XID 和 Branch ID 查找到相应的 UNDO LOG 记录</tspan>
+        </text>
+    </g>
+    <g transform="matrix(1,0,0,1,445,794)" ed:height="24.5" id="256" ed:width="70" ed:parentid="243" ed:layout="rightmap">
+        <path d="M0,24.5L70,24.5" stroke-linejoin="round" stroke="#696969" fill="none"></path>
+        <text class="st3">
+            <tspan x="8" y="16.1" style="white-space:pre">数据校验</tspan>
+        </text>
+    </g>
+    <g transform="matrix(1,0,0,1,542,794)" ed:height="24.5" id="257" ed:width="282" ed:parentid="256" ed:layout="rightmap">
+        <path d="M0,24.5L282,24.5" stroke-linejoin="round" stroke="#696969" fill="none"></path>
+        <text class="st3">
+            <tspan x="8" y="16.1" style="white-space:pre">拿 UNDO LOG 中的后镜与当前数据进行比较</tspan>
+        </text>
+    </g>
+    <g transform="matrix(1,0,0,1,851,794)" ed:height="24.5" id="258" ed:width="317" ed:parentid="257" ed:layout="rightmap">
+        <path d="M0,24.5L317,24.5" stroke-linejoin="round" stroke="#696969" fill="none"></path>
+        <text class="st3">
+            <tspan x="8" y="16.1" style="white-space:pre">不同，说明数据被当前全局事务之外的动作做了修改</tspan>
+        </text>
+    </g>
+    <g transform="matrix(1,0,0,1,445,825)" ed:height="24.5" id="259" ed:width="459" ed:parentid="243" ed:layout="rightmap">
+        <path d="M0,24.5L459,24.5" stroke-linejoin="round" stroke="#696969" fill="none"></path>
+        <text class="st3">
+            <tspan x="8" y="16.1" style="white-space:pre">根据 UNDO LOG 中的前镜像和业务 SQL 的相关信息生成并执行回滚的语句</tspan>
+        </text>
+    </g>
+    <g transform="matrix(1,0,0,1,445,856)" ed:height="24.5" id="260" ed:width="467" ed:parentid="243" ed:layout="rightmap">
+        <path d="M0,24.5L467,24.5" stroke-linejoin="round" stroke="#696969" fill="none"></path>
+        <text class="st3">
+            <tspan x="8" y="16.1" style="white-space:pre">提交本地事务。并把本地事务的执行结果（即分支事务回滚的结果）上报给 TC</tspan>
+        </text>
+    </g>
+    <g transform="matrix(1,0,0,1,445,887)" ed:height="43.5" id="261" ed:width="514" ed:parentid="244" ed:layout="rightmap">
+        <path d="M0,43.5L514,43.5" stroke-linejoin="round" stroke="#696969" fill="none"></path>
+        <text class="st3">
+            <tspan x="8" y="16.1" style="white-space:pre">收到 TC 的分支提交请求，把请求放入一个异步任务的队列中，马上返回提交成功的结</tspan>
+            <tspan x="8" y="35.1" style="white-space:pre">果给 TC</tspan>
+        </text>
+    </g>
+    <g transform="matrix(1,0,0,1,445,937)" ed:height="24.5" id="262" ed:width="438" ed:parentid="244" ed:layout="rightmap">
+        <path d="M0,24.5L438,24.5" stroke-linejoin="round" stroke="#696969" fill="none"></path>
+        <text class="st3">
+            <tspan x="8" y="16.1" style="white-space:pre">异步任务阶段的分支提交请求将异步和批量地删除相应 UNDO LOG 记录</tspan>
+        </text>
+    </g>
+    <svg xmlns="http://www.w3.org/2000/svg" width="1189" height="954.5">
+        
+        
+    </svg>
+</svg>

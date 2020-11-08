@@ -31,11 +31,11 @@ public class AccountServiceImpl implements AccountService {
     public void decrease(Long userId, BigDecimal money) {
         log.info("------->扣减账户开始account中");
         // 模拟超时异常，全局事务回滚
-        try {
+        /*try {
             Thread.sleep(40*1000);
         } catch (InterruptedException e) {
             e.printStackTrace();
-        }
+        }*/
 
         Account condition = new Account();
         condition.setUserId(userId);
